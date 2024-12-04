@@ -1,3 +1,3 @@
-module assesment-trustwallet
+module github.com/danielmbirochi/trustwallet-assignment
 
-go 1.22
+go 1.19
